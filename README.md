@@ -40,6 +40,7 @@ SourceTree の練習リポジトリです
 | akane      | サーモン       |
 | akane      | いなり         |
 | kenton116 | たまご |
+| kenton116 | イカ |
 | td         | はまち         |
 | td         | いくら         |
 | td         | マグロ         |
